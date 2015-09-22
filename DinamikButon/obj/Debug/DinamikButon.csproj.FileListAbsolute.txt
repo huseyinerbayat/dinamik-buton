@@ -1,0 +1,9 @@
+c:\users\hüseyin\documents\visual studio 2015\Projects\DinamikButon\DinamikButon\bin\Debug\DinamikButon.exe.config
+c:\users\hüseyin\documents\visual studio 2015\Projects\DinamikButon\DinamikButon\bin\Debug\DinamikButon.exe
+c:\users\hüseyin\documents\visual studio 2015\Projects\DinamikButon\DinamikButon\bin\Debug\DinamikButon.pdb
+c:\users\hüseyin\documents\visual studio 2015\Projects\DinamikButon\DinamikButon\obj\Debug\DinamikButon.csprojResolveAssemblyReference.cache
+c:\users\hüseyin\documents\visual studio 2015\Projects\DinamikButon\DinamikButon\obj\Debug\DinamikButon.Form1.resources
+c:\users\hüseyin\documents\visual studio 2015\Projects\DinamikButon\DinamikButon\obj\Debug\DinamikButon.Properties.Resources.resources
+c:\users\hüseyin\documents\visual studio 2015\Projects\DinamikButon\DinamikButon\obj\Debug\DinamikButon.csproj.GenerateResource.Cache
+c:\users\hüseyin\documents\visual studio 2015\Projects\DinamikButon\DinamikButon\obj\Debug\DinamikButon.exe
+c:\users\hüseyin\documents\visual studio 2015\Projects\DinamikButon\DinamikButon\obj\Debug\DinamikButon.pdb
